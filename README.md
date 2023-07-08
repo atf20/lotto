@@ -52,7 +52,7 @@ git push
 ```
 - 개발을 진행하고(커밋이나 잡다한 작업들 포함) 원격 저장소에 push
 
-![PR](https://github.com/kkywalk2/lotto/assets/18114747/3997f990-1642-475e-bd0b-0866a9a4e7f6)
+![PR](https://github.com/kkywalk2/lotto/assets/18114747/19581639-48bb-4ba2-a299-fc88d610c43e)
 - githun 저장소에 접속하여 pull request 클릭하고 `new pull request` 클릭
 
 ![pr2](https://github.com/kkywalk2/kky-blog/assets/18114747/93fc0d97-e947-42d3-8df9-f77f7f87df8a)
